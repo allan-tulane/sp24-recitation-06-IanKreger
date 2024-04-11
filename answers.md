@@ -15,6 +15,6 @@ Place all written answers from `recitation-07.md` here for easier grading.
 
 - **4)** From the counts list the pattern of the fibonacci sequence emerges. This is because the count adds 1 for each count in the spot of n, which generates the fibonacci sequence. 
 
-- **6)** The maximum number of times is exactly one time. Which makes work and span O(n).
+- **6)** The maximum number of times is n times. Which makes work and span O(n).
 
 - **8)** The maximum number of times is n-2 times. The work and span is O(n)
